@@ -20,7 +20,7 @@ From now on, every time we use the function `setColor` to change the `color` var
 
 > You can [read more about hooks here](https://content.breatheco.de/lesson/react-hooks-explained).
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱 How to start this project
 
@@ -38,7 +38,7 @@ https://github.com/4GeeksAcademy/react-hello
 
 > 💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instructions
 
